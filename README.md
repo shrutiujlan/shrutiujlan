@@ -26,10 +26,12 @@ I thrive on exploring new technologies and harnessing their power to create mean
 
 **Carnegie Mellon University**  
 Master of Information Systems Management | **Graduated: Dec 2024** 
+
 Coursework: Database Management, Distributed Systems, Cloud Computing, Computational Data Science, DevOps, Linux Open Source  
 
 **Vellore Institute of Technology (VIT)**  
 Bachelor of Technology, Electronics and Communication Engineering |  **Graduated: Jul 2021** 
+
 Coursework: Data Structures and Algorithms, Statistics, Cloud Computing, Machine Learning, Java Programming  
 
 ---
