@@ -112,6 +112,7 @@ orders and inventory using Firebase
 - Developed a portfolio of interactive data visualizations using datasets from various domains
 - Created visualizations to illustrate trends, distributions, and geographical data insights
 - Emphasized storytelling and clarity to make complex data more accessible for different audiences
+  
 [Data Visulizaition Portfolio](https://github.com/shrutiujlan/Data-Visualization-Portfolio)
 
 ---
