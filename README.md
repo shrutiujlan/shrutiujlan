@@ -112,9 +112,9 @@ Linux, Docker, Kubernetes, Helm, Jenkins, OpenShift, AWS, Azure, GCP
 
 #### Data Visulizaition Portfolio
 *Data Cleaning & Preprocessing, Plotly, Tableau 
-Developed a portfolio of interactive data visualizations using datasets from various domains
-Created visualizations to illustrate trends, distributions, and geographical data insights
-Emphasized storytelling and clarity to make complex data more accessible for different audiences
+- Developed a portfolio of interactive data visualizations using datasets from various domains
+- Created visualizations to illustrate trends, distributions, and geographical data insights
+- Emphasized storytelling and clarity to make complex data more accessible for different audiences
 
 ---
 
