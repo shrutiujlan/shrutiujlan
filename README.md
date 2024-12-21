@@ -8,7 +8,7 @@ Feel free to explore my repositories, check out my projects, or reach out to me 
 
 ## 🌟 About Me
 
-- 🎓 **Master's Graduate** from **Carnegie Mellon University**  
+- 🎓 **Masters in Information Systems Management** from **Carnegie Mellon University**  
 - 🌱 **Software Engineering Intern** at **VSP Vision**, working on Spring Boot APIs and cloud-native applications  
 - 👩‍💻 **Ex-Software Engineer** at **Dell Technologies** and **Publicis Sapient**  
 - 📍 Based in Pittsburgh, PA | Open to remote opportunities  
