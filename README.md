@@ -59,7 +59,7 @@ Linux, Docker, Kubernetes, Helm, Jenkins, OpenShift, AWS, Azure, GCP
 - Developed an Android app to recommend breweries based on user inputs via Open Brewery APIs  
 - Implemented a web-based dashboard for analytics and API response tracking  
 
-[Brewery Web Application](https://github.com/shrutiujlan/BreweryWebServiceP4)
+[Brewery Web Application](https://github.com/shrutiujlan/BreweryWebService)
 
 
 #### Credit Transfer Application (Capstone Project)  
